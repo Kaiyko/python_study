@@ -15,3 +15,10 @@ pygame 1.9.6
 udpchat(udp聊天)
 
 python 3.7.2
+
+---
+2020.09.11
+
+tcpstudy(tcp聊天、tcp下载 )
+
+python 3.7.2
